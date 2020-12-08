@@ -1,1 +1,1 @@
-# Scrolling-Effect-Parallax
+https://kichukegor.github.io/Scrolling-Effect-Parallax/.
